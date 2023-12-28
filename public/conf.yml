@@ -1,17 +1,17 @@
 ---
 # Page meta info, like heading, footer text and nav links
 pageInfo:
-  title: Dashy
-  description: Welcome to your new dashboard!
+  title: HomeBase
+  description: Welcome!
   navLinks:
   - title: GitHub
-    path: https://github.com/Lissy93/dashy
+    path: https://github.com/stardoom4/dashy2
   - title: Documentation
     path: https://dashy.to/docs
 
 # Optional app settings and configuration
 appConfig:
-  theme: colorful
+  theme: callisto
 
 # Main content - An array of sections, each containing an array of items
 sections:
